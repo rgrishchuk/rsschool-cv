@@ -20,3 +20,6 @@ Training project – Development of an online store selling car parts:
 
 EDUCATION and TRAINING
 Online course JAVASCRIPT FRONT-END Rolling Scopes
+
+ADDITIONAL SKILLS
+Foreign Languages: English (Pre-Intermediate) - Being able to read and write technical English, as well as being able to stand English conversation with customers, colleagues, and partners
