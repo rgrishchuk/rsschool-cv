@@ -88,3 +88,21 @@ a, a:visited, a:hover, #phone {
 	list-style: none;
 	padding-left: 0;
 }
+
+@media screen and (max-width: 800px) {
+	html {
+		font-size: 5px;
+	}
+
+	body {
+		width: 90%;
+	}
+
+	.header {
+		flex-direction: column;
+	}
+	
+	.content {
+		font-size: 2rem;
+	}
+}
